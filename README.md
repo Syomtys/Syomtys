@@ -1,4 +1,4 @@
-![Syomtys](ссылка_на_изображение)
+![Syomtys](https://github.com/Syomtys/Syomtys/blob/main/syomtys.png)
 
 ### Hi there 👋
 
