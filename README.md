@@ -6,4 +6,4 @@
 
 ###Languages 
 
-https://img.shields.io/endpoint?url=<URL>?style=for-the-badge&logo=appveyor<STYLE>
+![Flutter](https://img.shields.io/endpoint?url=?style=for-the-badge&logo=appveyor)
