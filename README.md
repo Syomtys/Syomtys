@@ -6,6 +6,6 @@
 
 ### Languages 
 
-![Flutter](https://img.shields.io/badge/-Python-ededed?style=for-the-badge&logo=python?logoColor=000000)
-![Flutter](https://img.shields.io/badge/-HTML-ededed?style=for-the-badge&logo=HTML5?logoColor=000000)
-![Flutter](https://img.shields.io/badge/-CSS-ededed?style=for-the-badge&logo=CSS3?logoColor=000000)
+![Flutter](https://img.shields.io/badge/-Python-ededed?style=for-the-badge&logo=python&logoColor=000000)
+![Flutter](https://img.shields.io/badge/-HTML-ededed?style=for-the-badge&logo=HTML5&logoColor=000000)
+![Flutter](https://img.shields.io/badge/-CSS-ededed?style=for-the-badge&logo=CSS3&logoColor=000000)
