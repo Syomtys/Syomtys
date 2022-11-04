@@ -1,7 +1,7 @@
 ![Syomtys](https://github.com/Syomtys/Syomtys/blob/main/syomtys.png)
 
 
-## I'm Beginner python programmer
+# I'm Beginner python programmer
 
 ### Languages 
 
