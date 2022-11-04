@@ -7,7 +7,7 @@
 
 - ![Flutter](https://img.shields.io/badge/-PyCharm-ededed?style=for-the-badge&logo=PyCharm&logoColor=121212)
 ![Flutter](https://img.shields.io/badge/-Python-ededed?style=for-the-badge&logo=python&logoColor=121212)
-![Flutter](https://img.shields.io/badge/-parsers,word processing,html-template-generators,-telegram-bots,-selenium,json,sql-ededed?style=for-the-badge&logo=appveyor&logoColor=121212)
+![Flutter](https://img.shields.io/badge/-parsers,regular-expressions,html-template-generators,-telegram-bots,-selenium,json,sql-ededed?style=for-the-badge&logo=appveyor&logoColor=121212)
 
 
 
