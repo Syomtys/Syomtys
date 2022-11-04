@@ -12,9 +12,10 @@
 > ![Flutter](https://img.shields.io/badge/-HTML-ededed?style=for-the-badge&logo=HTML5&logoColor=121212)
 > ![Flutter](https://img.shields.io/badge/-CSS-ededed?style=for-the-badge&logo=CSS3&logoColor=121212)
 > ![Flutter](https://img.shields.io/badge/-JavaScript-ededed?style=for-the-badge&logo=JavaScript&logoColor=121212)
-***
-### OS ![Flutter](https://img.shields.io/badge/-macOS-ededed?style=for-the-badge&logo=macOS&logoColor=121212)
-![Flutter](https://img.shields.io/badge/-Windows-ededed?style=for-the-badge&logo=Windows&logoColor=121212)
+
+### OS 
+> ![Flutter](https://img.shields.io/badge/-macOS-ededed?style=for-the-badge&logo=macOS&logoColor=121212)
+> ![Flutter](https://img.shields.io/badge/-Windows-ededed?style=for-the-badge&logo=Windows&logoColor=121212)
 
 
 
