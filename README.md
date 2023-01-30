@@ -1,4 +1,4 @@
-![Syomtys](https://github.com/Syomtys/Syomtys/blob/main/syomtys.png)
+![Syomtys](https://github.com/Syomtys/Syomtys/blob/main/syomtys new.png)
 
 
 # I'm Beginner python programmer
