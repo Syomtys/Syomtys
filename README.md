@@ -1,10 +1,10 @@
 ![Syomtys](https://github.com/Syomtys/Syomtys/blob/main/logo.png)
 
 
-# I'm Beginner python programmer
+# I have been a developer for over 2 years
 
 ### Languages:
-> #### Parsers,Regular Expressions, Html template generators, telegram bots, Selenium, Json, Sql
+> #### Python, SQL(MySQL,PostgreSQL), Web(HTML, CSS, JS, PHP)
 > ![Flutter](https://img.shields.io/badge/-PyCharm-ededed?style=for-the-badge&logo=PyCharm&logoColor=121212)
 > ![Flutter](https://img.shields.io/badge/-Python-ededed?style=for-the-badge&logo=python&logoColor=121212)
 >
