@@ -1,7 +1,7 @@
 ![Syomtys](https://github.com/Syomtys/Syomtys/blob/main/logo.png)
 
 
-# I have been a developer for over 2 years
+# I have been a developer for over 3 years
 
 ### Languages:
 > #### Web(HTML, CSS, JS, PHP)
